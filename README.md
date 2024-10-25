@@ -1,6 +1,6 @@
 # Calculadora de Média de Notas :star2:
 
-<span style = "color:pink;>Calculadora de média simples feita com html e javascript. </span>
+<span style="color:pink;">Calculadora de média simples feita com html e javascript.</span>
 
 ## Como instalar?
 
